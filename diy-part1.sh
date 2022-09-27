@@ -39,7 +39,6 @@ git clone https://github.com/lisaac/luci-app-dockerman
 git clone https://github.com/kuoruan/luci-app-kcptun package/luci-app-kcptun
 git clone https://github.com/jerrykuku/luci-theme-argon package/luci-theme-argon
 git clone https://github.com/lisaac/luci-app-dockerman package/luci-app-dockerman
-
 git clone https://github.com/shadowsocks/luci-app-shadowsocks package/luci-app-shadowsocks
 git clone https://github.com/rufengsuixing/luci-app-adguardhome package/luci-app-adguardhome
 git clone https://github.com/frainzy1477/luci-app-clash package/luci-app-clash
